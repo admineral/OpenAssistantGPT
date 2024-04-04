@@ -3,7 +3,7 @@
     "next-contentlayer": {
       "next": "$next"
     }
-  }  
+  },  
   "private": true,
   "scripts": {
     "dev": "prisma generate && next dev",
